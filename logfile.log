@@ -1,0 +1,23 @@
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-10T17:59:55.506Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-10T18:00:24.433Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-10T18:00:29.953Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-10T18:04:58.199Z"}
+{"message":"some thing failed during startup","stack":"Error: some thing failed during startup\n    at Timeout._onTimeout (D:\\iriquiqui_compra_venta\\backend\\index.js:9:11)\n    at listOnTimeout (node:internal/timers:568:17)\n    at process.processTimers (node:internal/timers:511:7)","level":"error","timestamp":"2023-03-10T18:05:02.958Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-10T18:05:16.915Z"}
+{"message":"some thing failed during startup","stack":"Error: some thing failed during startup\n    at Timeout._onTimeout (D:\\iriquiqui_compra_venta\\backend\\index.js:9:11)\n    at listOnTimeout (node:internal/timers:568:17)\n    at process.processTimers (node:internal/timers:511:7)","level":"error","timestamp":"2023-03-10T18:05:21.662Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-10T18:05:39.334Z"}
+{"message":"some thing failed during startup","stack":"Error: some thing failed during startup\n    at Timeout._onTimeout (D:\\iriquiqui_compra_venta\\backend\\index.js:9:11)\n    at listOnTimeout (node:internal/timers:568:17)\n    at process.processTimers (node:internal/timers:511:7)","level":"error","timestamp":"2023-03-10T18:05:44.026Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-10T18:06:26.725Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-10T18:16:44.649Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-13T22:06:33.153Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-14T15:42:46.712Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-14T15:54:38.854Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-14T15:56:54.350Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-14T15:59:48.335Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-14T16:07:12.874Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-14T16:19:25.142Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-14T16:20:38.344Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-21T21:03:23.803Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-27T18:01:12.683Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-27T18:01:22.675Z"}
+{"level":"info","message":"App is running on Port 3000","timestamp":"2023-03-28T13:45:54.112Z"}
